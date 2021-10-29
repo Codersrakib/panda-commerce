@@ -1,5 +1,8 @@
-.container{
-    margin-bottom: 100px;
+ .container{
+    margin-bottom: 100px !important;
+}
+#mg-top{
+    margin-top: 130px !important;
 }
 .slider-bg{
     background-color: #fceae8;
